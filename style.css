@@ -1,0 +1,4 @@
+table tr:nth-child(odd) {
+    background: grey;
+    color: white;
+}
